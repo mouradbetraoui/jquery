@@ -1,0 +1,39 @@
+html {margin: auto;
+    width: 1905px;
+}
+body { margin:0;
+    width:1905px;
+}
+.nav {  position: relative;
+        top: -1em;
+        background-color: #333;
+        width: 120em;
+        right: 0.5em;
+}
+li { display: inline-block;
+}
+.img1, .img2, .img3 {width: 35px;
+                      height: 25px;
+                    word-spacing: 22px;
+}
+.img4, .img5 {  width: 25px;
+               height: 25px;
+}
+.logo { position: relative;
+        top: 0.1em;
+}
+.menu { position: relative;
+        float: right;
+        top: -3.7em;
+        color: white;
+        word-spacing: 22px;
+}
+.j_Query {width: 256px;
+}
+table {
+   margin-left: 300px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #0769ad;
+    column-span: all;
+}
